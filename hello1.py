@@ -1,0 +1,5 @@
+num=input("enter your number")
+r=int(3.14*pow((num/2),2))
+c=2*3.14*(num/2)
+print(f"the circum frence is ={c}")
+print("%.2f"%c)

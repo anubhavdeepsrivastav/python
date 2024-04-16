@@ -1,0 +1,7 @@
+a=int(input("enter the value in decimal"))
+b=bin(a)
+print(b)
+c=hex(a)
+d=oct(a)
+print(c)
+print(d)

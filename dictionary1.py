@@ -1,0 +1,9 @@
+d3={"yashi":"janhavi","anubhav":"gaurav","papa":"deepak"}
+d3["mummy"]="binni"
+#print(d3["anubhav"])
+d3.update({"king":"queen"})
+#print(d3)
+#print(d3.get("yashi"))
+print(d3.keys())
+print("\n")
+print(d3.items())
